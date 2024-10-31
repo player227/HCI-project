@@ -1,0 +1,83 @@
+<Website>
+    <Home />
+    <PhotographyServices>
+        <EventPhotography>
+            <Weddings />
+            <CorporateEvents />
+            <PrivateParties />
+            <CustomEventPackages />
+        </EventPhotography>
+        <PortraitPhotography>
+            <FamilyPortraits />
+            <ProfessionalHeadshots />
+            <PersonalPortraits />
+            <GroupPhotography />
+        </PortraitPhotography>
+        <FilmDevelopment>
+            <ThirtyFivemmFilmDevelopment />
+            <MediumFormatDevelopment />
+            <BlackAndWhiteFilmDevelopment />
+        </FilmDevelopment>
+        <DigitalPrinting>
+            <StandardPrints />
+            <PolaroidStylePrints />
+            <PosterSizedPrints />
+        </DigitalPrinting>
+    </PhotographyServices>
+    <Shop>
+        <Cameras>
+            <ThirtyFivemmCameras />
+            <MediumFormatCameras />
+            <DigitalCameras />
+            <DisposableCameras />
+        </Cameras>
+        <CameraAccessories>
+            <CameraStraps />
+            <CameraCases />
+            <LensFilters />
+            <Tripods />
+        </CameraAccessories>
+        <FilmAndSupplies>
+            <ThirtyFiveMMFilmRolls />
+            <MediumFormatFilmRolls />
+            <FilmStorage />
+        </FilmAndSupplies>
+        <FramesAndAlbums>
+            <Frames />
+            <Albums />
+        </FramesAndAlbums>
+    </Shop>
+    <CustomerSupport>
+        <EmailUs />
+        <Shipping />
+        <ReturnsAndRefunds>
+            <ReturnPolicy />
+            <RefundOptions />
+        </ReturnsAndRefunds>
+        <OrderStatus>
+            <TrackMyOrder />
+            <ModifyMyOrder />
+        </OrderStatus>
+    </CustomerSupport>
+    <AccountManagement>
+        <SignInRegister />
+        <MyAccount>
+            <OrderHistory />
+            <SavedFavorites />
+            <EmailNotifications />
+            <BillingInformation />
+        </MyAccount>
+        <PaymentMethods />
+    </AccountManagement>
+    <PromotionsAndOffers>
+        <SeasonalPromotions />
+    </PromotionsAndOffers>
+    <Portfolio />
+    <Blog>
+        <Analog />
+        <Digital /> 
+    </Blog>
+    <AboutUs />
+    <ContactUs />
+    <PrivacyPolicy />
+</Website>
