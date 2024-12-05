@@ -28,7 +28,7 @@
 - Link to Assignment 2: [**Assignment 2**](/assignments/02.Personas/) <!-- Replace with actual URL -->
 - Link to Assignment 3: [**Assignment 3**](https://hci-project-snowy.vercel.app/) <!-- Replace with actual URL -->
 <!-- Add more assignments as necessary -->
-
+- Link to Assignment 4: [**Assignment 4**](/assignments/Assignment 4.png)
 ## Project Requirements
 
 ### Web Application Requirements
