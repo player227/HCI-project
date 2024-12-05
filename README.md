@@ -24,11 +24,10 @@
 
 ### Semester Assignments
 
-- Link to Assignment 1: [**Assignment 1**](/assignments/01.Figma/Figma.mkv) <!-- Replace with actual URL -->
-- Link to Assignment 2: [**Assignment 2**](/assignments/02.Personas/) <!-- Replace with actual URL -->
-- Link to Assignment 3: [**Assignment 3**](https://hci-project-snowy.vercel.app/) <!-- Replace with actual URL -->
-<!-- Add more assignments as necessary -->
-- Link to Assignment 4: [**Assignment 4**](/assignments/Assignment 4.png)
+- Link to Assignment 1: [**Assignment 1**](/assignments/01.Figma/Figma.mkv)
+- Link to Assignment 2: [**Assignment 2**](/assignments/02.Personas/)
+- Link to Assignment 3: [**Assignment 3**](https://hci-project-snowy.vercel.app/)
+- Link to Assignment 4: [**Assignment 4**](/assignments/04.Prototype/Assignment_4_Desktop.png)
 ## Project Requirements
 
 ### Web Application Requirements
