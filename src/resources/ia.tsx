@@ -10,7 +10,7 @@ const pages: Page[] = [
         path: "/",
     },
     {
-        title: "Photography Services",
+        title: "Services",
         path: "/photographyservices",
         children: [
             {
@@ -97,13 +97,6 @@ const pages: Page[] = [
         ],
     },
     {
-        title: "Promotions And Offers",
-        path: "/promotionsandoffers",
-        children: [
-            { title: "Seasonal Promotions", path: "/promotionsandoffers/seasonalpromotions" },
-        ],
-    },
-    {
         title: "Portfolio",
         path: "/portfolio",
     },
@@ -116,58 +109,8 @@ const pages: Page[] = [
         ],
     },
     {
-        title: "About Us",
+        title: "Our story",
         path: "/about",
-    },
-    {
-        title: "Contact Us",
-        path: "/contact",
-    },
-    {
-        title: "Customer Support",
-        path: "/customersupport",
-        children: [
-            { title: "Email Us", path: "/customersupport/email" },
-            { title: "Shipping", path: "/customersupport/shipping" },
-            {
-                title: "Returns And Refunds",
-                path: "/customersupport/returnsandrefunds",
-                children: [
-                    { title: "Return Policy", path: "/customersupport/returnsandrefunds/returnpolicy" },
-                    { title: "Refund Options", path: "/customersupport/returnsandrefunds/refundoptions" },
-                ],
-            },
-            {
-                title: "Order Status",
-                path: "/customersupport/orderstatus",
-                children: [
-                    { title: "Track My Order", path: "/customersupport/orderstatus/trackmyorder" },
-                    { title: "Modify My Order", path: "/customersupport/orderstatus/modifymyorder" },
-                ],
-            },
-        ],
-    },
-    {
-        title: "Account Management",
-        path: "/accountmanagement",
-        children: [
-            { title: "Sign In/Register", path: "/accountmanagement/signinregister" },
-            {
-                title: "My Account",
-                path: "/accountmanagement/myaccount",
-                children: [
-                    { title: "Order History", path: "/accountmanagement/myaccount/orderhistory" },
-                    { title: "Saved Favorites", path: "/accountmanagement/myaccount/savedfavorites" },
-                    { title: "Email Notifications", path: "/accountmanagement/myaccount/emailnotifications" },
-                    { title: "Billing Information", path: "/accountmanagement/myaccount/billinginformation" },
-                ],
-            },
-            { title: "Payment Methods", path: "/accountmanagement/paymentmethods" },
-        ],
-    },
-    {
-        title: "Privacy Policy",
-        path: "/privacypolicy",
     },
 ];
 
