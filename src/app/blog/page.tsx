@@ -1,4 +1,4 @@
-import { Navigation } from "@/components/navigation";
+import Header from "@/components/header";
 import Link from "next/link";
 
 export type Post = {
@@ -112,8 +112,8 @@ export default async function BlogPage({ searchParams }: BlogPageProps) {
 
   const posts = await getPosts({ _start, _limit });
   return (
-    <main className="flex min-h-screen flex-col items-center p-10">
-      <Navigation />
+    <main className="flex min-h-screen flex-col items-center  bg-gray-light">
+      <Header />
       <h1 className="text-6xl font-extrabold tracking-tight mb-10">Blog</h1>
       <Pagination currentPage={currentPage} pagesCount={pagesCount} />
       <ul className="w-full max-w-2xl space-y-4">{posts.map(processPost)}</ul>
