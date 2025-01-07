@@ -1,4 +1,4 @@
-import Header from "@/components/header";
+import Link from "next/link";
 import type { Post } from "../page";
 import { ArrowLeft } from "lucide-react";
 import { Metadata } from "next";
