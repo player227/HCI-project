@@ -27,7 +27,7 @@
 - Link to Assignment 1: [**Assignment 1**](/assignments/01.Figma/Figma.mkv)
 - Link to Assignment 2: [**Assignment 2**](/assignments/02.Personas/)
 - Link to Assignment 3: [**Assignment 3**](https://hci-project-snowy.vercel.app/)
-- Link to Assignment 4: [**Assignment 4**](/assignments/04.Prototype/assignment_4_desktop.png)
+- Link to Assignment 4: [**Assignment 4**](/assignments/04.Prototype/desktop_version_reimagined.png)
 - Link to Assignment 5: [**Assignment 5**](https://hci-project-snowy.vercel.app/blog)
 ## Project Requirements
 
